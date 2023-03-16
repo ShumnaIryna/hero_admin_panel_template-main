@@ -1,0 +1,60 @@
+{
+  "heroes": [
+    {
+      "id": 2,
+      "name": "Невідомий герой",
+      "description": "Той, що ховається в тіні",
+      "element": "wind"
+    },
+    {
+      "id": "08df1abf-56a8-45c0-a80e-136b113e79ea",
+      "name": "Ірина Сергіївна Шумна",
+      "description": "kkk",
+      "element": "fire"
+    },
+    {
+      "id": "1398a6d5-6de4-40eb-b64d-ec7dc20eaea4",
+      "name": "fgfdg",
+      "description": "dsfdf",
+      "element": "water"
+    },
+    {
+      "id": "a5925b8d-464f-4a2a-9722-cff83335cf00",
+      "name": "Ірина",
+      "description": "vbvb",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Вогонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Вітер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
